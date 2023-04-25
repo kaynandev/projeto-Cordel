@@ -58,8 +58,7 @@
 
  section {
     font-family: sriracha;
-    font-size: 3.5vw;
-   
+    font-size: 3.5vw;  
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 30px;
@@ -106,5 +105,5 @@
     font-family: sans-serif;
     text-align: center;
     color: white;
-    padding: 5px;
+    padding: 3px;
  }
